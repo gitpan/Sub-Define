@@ -1,0 +1,11 @@
+Changes
+LICENSE
+MANIFEST
+Makefile.PL
+README
+lib/Sub/Define.pm
+t/010basic.t
+t/020interface.t
+t/030define.t
+t/031define-override.t
+META.yml                                 Module meta-data (added by MakeMaker)

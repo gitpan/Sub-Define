@@ -1,0 +1,10 @@
+Revision history for Perl module Sub::Define
+
+0.01 2005-07-24
+    - Released on CPAN.
+
+0.002 2005-07-23
+    - Added Sub::Define::Interface
+
+0.001 2005-05-27
+    - Original version; created by ExtUtils::ModuleMaker 0.32.
